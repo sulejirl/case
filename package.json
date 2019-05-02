@@ -1,0 +1,21 @@
+{
+  "name": "getircase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "compression": "^1.7.4",
+    "express": "^4.16.4",
+    "mocha": "^6.1.4",
+    "mongoose": "^5.5.5",
+    "nodemon": "^1.19.0"
+  }
+}
