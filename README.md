@@ -7,7 +7,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Dependencies
 
-Install dependencies to run the project on Local machine
+Install dependencies to run the project on local machine
 
 ```
 npm i
